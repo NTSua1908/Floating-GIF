@@ -1,0 +1,12 @@
+#floating-gif-container {
+  position: fixed;
+  z-index: 9999;
+  cursor: move;
+}
+
+#floating-gif {
+  width: 100px;
+  height: auto;
+  user-select: none;
+  -webkit-user-drag: none;
+}
