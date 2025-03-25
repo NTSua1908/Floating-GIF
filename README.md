@@ -17,7 +17,7 @@ A Chrome extension that displays a draggable floating GIF on webpages. Users can
 1. **Clone or Download**:
    - Clone this repository or download the ZIP file and extract it:
      ```bash
-     git clone https://github.com/yourusername/floating-gif-extension.git
+     git clone https://github.com/NTSua1908/Floating-GIF.git
      ```
 2. **Load into Chrome**:
    - Open Chrome and navigate to `chrome://extensions/`.
@@ -38,17 +38,17 @@ A Chrome extension that displays a draggable floating GIF on webpages. Users can
 
 ## File Structure
 
-floating-gif-extension/
-├── icons/ # Extension icons
-│ ├── icon16.png # 16x16 icon
-│ ├── icon32.png # 32x32 icon
-│ ├── icon48.png # 48x48 icon
-│ ├── icon128.png # 128x128 icon
-├── content.js # Content script for floating GIF logic
-├── manifest.json # Extension manifest file
-├── popup.html # Popup UI
-├── popup.js # Popup logic
-├── styles.css # Styles for the floating GIF
+floating-gif-extension\
+├── icons/ # Extension icons\
+│ ├── icon16.png # 16x16 icon\
+│ ├── icon32.png # 32x32 icon\
+│ ├── icon48.png # 48x48 icon\
+│ ├── icon128.png # 128x128 icon\
+├── content.js # Content script for floating GIF logic\
+├── manifest.json # Extension manifest file\
+├── popup.html # Popup UI\
+├── popup.js # Popup logic\
+├── styles.css # Styles for the floating GIF\
 └── README.md # This file
 
 ## Files Explained
